@@ -1,1 +1,6 @@
-Test
+หลักการทำงานของ Compiler ตัวนี้
+1. รับคำสั่งไฟล์นามสกุล .vt
+2. ดำเนินการด้วย Compiler Desgin ด้วยภาษา C แปลงเป็น Assembly
+- Lexical Analysis
+- Syntax Analysis
+- Token
