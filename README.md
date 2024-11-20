@@ -11,4 +11,4 @@
 | RECURSIVE FUNCTION | ⛔ |
 | FILE MANAGER | ⛔ |
 | HTTP SERVER | ⛔ |
-| BULD .EXE | ⛔ |
+| BUILD .EXE | ⛔ |
